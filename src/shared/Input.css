@@ -1,0 +1,10 @@
+.select {
+    padding-right: 15px;
+    cursor: pointer;
+    height: 36px;
+    
+}
+.input {
+    height: 30px;
+    margin-bottom: 10px;
+}
